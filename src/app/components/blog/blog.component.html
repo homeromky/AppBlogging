@@ -1,0 +1,36 @@
+<div>
+    <h2>Formulario</h2>
+   <!--  SOLID.js RJXS-->
+<section>
+    <div>
+      <!-- capturar los datos -->
+      <div>
+        <label for="titluo">Titulo</label>
+        <input type="text" id="titulo" placeholder="introduce un titulo" [(ngModel)]="newNoticia.titulo">
+      </div>
+      <div>
+        <label for="imagen">Imagen</label>
+        <input type="text" id="imagen" placeholder="introduce una imagen (url)" [(ngModel)]="newNoticia.imagen">
+      </div>
+      <div>
+        <label for="cuerpo">Cuerpo de la noticia</label>
+        <input type="text" id="cuerpo" placeholder="introduce el texto de la noticia" [(ngModel)]="newNoticia.cuerpo">
+      </div>
+     
+      <button (click)="guardar()">Guardar</button>
+  
+    </div>
+    <hr>
+  
+  </section>
+
+
+</div>
+
+<div>
+    <section class="flex" [innerHTML]="cargarDatos()">
+
+    </section>
+
+
+</div>
