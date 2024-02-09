@@ -14,17 +14,17 @@ export class AppComponent {
   
   arrNoticias: INoticia[] = [
   {
-    titulo: "Titulo Numero 1",
-    imagen: "https://mailrelay.com/wp-content/uploads/2018/03/que-es-un-blog-1.png",
-    cuerpo: "Muchas empresas ya no acuden a un Curriculum a buscar información sobre una candidato o nuevo miembro de su empresa, sino que van a los buscadores a ver qué es lo que encuentran de él.",
+    titulo: "14 bison came to Catalina for a movie. 100 years later, what’s next?",
+    imagen: "https://i.natgeofe.com/n/92b52f4c-21f8-44c2-9fd7-9347dd5ca2c1/GettyImages-1242323713.jpg?w=2520&h=1680",
+    cuerpo: "In the winter of 1924, 14 American bison weighing 1,500 pounds arrived in crates at the harbor of Santa Catalina Island, off the coast of Los Angeles, California, where they were set free to roam the hillsides.Local lore has it that they were brought here to film a movie, though there’s little evidence they made a Hollywood debut. But over the last century, the bison have become the unlikely stars of Catalinas ecosystem.",
     fecha: new Date("2024-03-16")
 
    
   },
   {
-    titulo: "Titulo Numero 2",
-    imagen: "https://img.freepik.com/vector-gratis/blogueando-divertido-creacion-contenido-streaming-online-videoblog-chica-joven-haciendo-selfie-red-social-compartir-comentarios-estrategia-autopromocion_335657-2386.jpg?size=626&ext=jpg",
-    cuerpo: "Blogueando divertido. creación de contenido, streaming online, videoblog. chica joven haciendo selfie",
+    titulo: "Fall in love with 10 heart-shaped places around the world",
+    imagen: "https://i.natgeofe.com/n/6062013b-555f-40aa-91be-bbe1747a686f/heart-hokkaido-japan.jpg?w=2520&h=1418",
+    cuerpo: "Some people leave their hearts in San Francisco, others consider Paris—the “City of Love”—as the epicenter of romance. But these heart-shaped attractions, whether naturally occurring or crafted by hand, visibly channel the affectionate Valentine’s symbol. From a flight over Heart Reef in Australia to floral arbors resembling you-know-whats in Dubai, these spots could inspire passion, platonic love, or at least some heart-worthy Instagram photos.",
     fecha: new Date("2024-03-16")
 
    

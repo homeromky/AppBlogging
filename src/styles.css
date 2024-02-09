@@ -1,1 +1,24 @@
-/* You can add global styles to this file, and also import other style files */
+article{
+    background-color: rgb(251, 248, 245);
+    padding: 10px;
+    border-radius: 10px;
+    border:2px solid black;
+    margin-bottom: 10px;
+    }
+
+    
+.noticias img
+{
+    height: 100px;
+}
+h2
+{
+    font-size: 1.375rem;
+}
+h3
+{
+    font-size: 1rem;
+}
+
+
+  
